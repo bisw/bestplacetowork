@@ -1,0 +1,23 @@
+{
+  "name": "glassdoor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bisw/glassdoor.git"
+  },
+  "author": "Biswajit Mondal, Amit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bisw/glassdoor/issues"
+  },
+  "homepage": "https://github.com/bisw/glassdoor#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
